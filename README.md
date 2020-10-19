@@ -25,7 +25,7 @@
       The program will terminate.
       
 # Block Diagram of MathBot 
-![](BlockDig.jpeg)
+<img src="BlockDig.jpeg" width="1000" height="1000">
 
 # Youtube Video
 https://youtu.be/0didH6jKvIs
